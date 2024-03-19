@@ -9,7 +9,7 @@ Feature: Instructor_details
     And Enter Biography "Worked as a instructor in shephard university" details of instructor
     And Enter Professional_headline "QA Automation instructor" of a instructor
     And Enter and save Phone "phone" number Current "Yelahanka Bengaluru" and Permanant "Yelahanka Bengaluru" address of instructor
-    And Click on Education tab and enter college "AB" and type "B.E" of instructor
+    And Click on Education tab and enter college "AB" and type "Bachelors Degree" of instructor
     And Enter title "Information Science" and status "Completed" of instructor
     And Enter Instructor education start date in 14, 8 and 2016
     And Enter Instructor education end date in 14, 8 and 2020

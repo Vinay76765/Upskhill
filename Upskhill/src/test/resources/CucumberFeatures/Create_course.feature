@@ -14,7 +14,7 @@ Feature: Course Creation
     	And Skip course structure, setup video and edit film screens
     	And Enter module one with marks <total_marks> ,module marks <mod_marks> , Description "Module one" and  module name "Module one"
     	And Enter lesson contents with lesson name "lesson_one", lesson description "lesson_one" and save it
-    	And Add video with video title "video_title" and video path "video_path"
+    	And Add video with video title "video_title" and video path "Video_path"
 			And Add audio with audio title "audio_title" and audio path "audio_path"
 			And Add article with article title "article_title", article description "article_desc" and with article path"article_path"
 			And Add Quiz with quiz title "quiz_title", quiz description "quiz_desc", quiz marks 50 and Duration of quiz timings 15
