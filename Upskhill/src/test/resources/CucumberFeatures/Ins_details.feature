@@ -10,7 +10,7 @@ Feature: Instructor_details
     And Enter Professional_headline "QA Automation instructor" of a instructor
     And Enter and save Phone "phone" number Current "Yelahanka Bengaluru" and Permanant "Yelahanka Bengaluru" address of instructor
     And Click on Education tab and enter college "AB" and type "Bachelors Degree" of instructor
-    And Enter title "Information Science" and status "Completed" of instructor
+    And Enter title "B.E" and status "Completed" of instructor
     And Enter Instructor education start date in 14, 8 and 2016
     And Enter Instructor education end date in 14, 8 and 2020
     When Enter final grade "A+" of instructor in his education.
